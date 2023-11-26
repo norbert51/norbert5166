@@ -1,0 +1,26 @@
+{
+  "name": "Jayden Pearson",
+  "age": 26,
+  "address": {
+    "street": "Rilaj Glen",
+    "city": "Vurtellor",
+    "state": "IL",
+    "zip": "49512"
+  },
+  "contact": {
+    "phone": "(626) 236-2155",
+    "servicePhone": "800754164"
+  },
+  "birthday": "1992-11-01T22:09:40.148Z",
+  "ip": "106.93.108.52",
+  "foo": "bar",
+  "profile": {
+    "about": "Ubi mur kehde ucasi emfu fet iruhek icuga na hugufona tod ju. Pu meme ru pilo evgieke et huvgi be wiwpuz paj miko fucpem ki hi tajbe. El buliw gitvujez ikdi ti unikot saduva ziwcef cupad rek folejgi midjo pejvovki.",
+    "bio": "Guvu hafujez jaecak tobmava omoreeto makka sef lu ovu ti haowahub ba hapseda ufugimne sabob gaanwac mituluv. Jij zuzzafef wegjih pat jepe hohopuvaj edebez enohajne zo sipde mogumwev ezu. Tutemufam boznahe hedobek tibusuw hitjotgop conud ijozej vuj gur apolacig mingoefu geloito erimi vordinus. Wocnop majpotod cu uneupud cubgaczu bukur emehetzur ved emsucat beronil wi gogub duamcu."
+  },
+  "apiKey": "88f5eac859eced825aa0759fda2e7f4f3c11ee2e678b8cea5a24c75d9b027e0e",
+  "currency": {
+    "code": "KRW",
+    "name": "Korea (South) Won"
+  }
+}
