@@ -1,0 +1,26 @@
+{
+  "name": "Julian Swanson",
+  "age": 18,
+  "address": {
+    "street": "Gino Junction",
+    "city": "Gefetfim",
+    "state": "NH",
+    "zip": "65323"
+  },
+  "contact": {
+    "phone": "(302) 434-4098",
+    "servicePhone": "800326586"
+  },
+  "birthday": "1975-12-01T12:21:38.132Z",
+  "ip": "88.235.103.191",
+  "foo": "bar",
+  "profile": {
+    "about": "Gagwivja cogseuva de vut faefrum peg asru kat uvube cucet fingube vujipido pa sivba etu ridu lekwi zisvu. Niewa ohupejih lafto wi otzak benulul nulhec pihcuf bedu emebovib arkiv pa osnu cepiwbaj sacsuf. Itno mo acoci po wu sa cofaci ew sozas du pumvu se kek kemwidi haerosu cupi keat zevlufkam. Cijjibwel fuco vetvepit ram ako duvi forpe zu deri je upfot su ziv bawkof keheog ezkeoju ruhlivmo. Cicri bejpifnev mu lehliat cikpewa vemgibpub fil ire go ud maoj buhafgan ojaave jaediger jarbilo fub minafot guvcu. Piic af to iznic lote etu pu regso elhep ja bocliw icofuc.",
+    "bio": "Guglik ciwo le ivpimne raewi dodtel fazjulto zebu fu ukodowad me sufegaro estusned uswimba ze vo rozimmuj tu. Mul ij la oveurerow sujatde wizummon dem kon talvogom wuwic mozuvza zahova zu zad zuvcomu ezute. Raep bag caeca hodeosi usovehoho osuvu eno fedaot cadvef botug rew sabamuw kacowanu vone etalu bid."
+  },
+  "apiKey": "5747b1bb9e575c4a3520023264ad04969dc1058558b75dcaaf53421232972d56",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
