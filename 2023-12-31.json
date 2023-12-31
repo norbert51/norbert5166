@@ -1,0 +1,26 @@
+{
+  "name": "Francis Cain",
+  "age": 21,
+  "address": {
+    "street": "Maeba Drive",
+    "city": "Zerruul",
+    "state": "GA",
+    "zip": "93970"
+  },
+  "contact": {
+    "phone": "(337) 575-1865",
+    "servicePhone": "800294998"
+  },
+  "birthday": "2001-09-06T17:36:37.113Z",
+  "ip": "187.208.112.22",
+  "foo": "bar",
+  "profile": {
+    "about": "Somkarzo onucocho tompoh va le dohburom be pevo mof wapaj hononve izdefun norvu ci gut. Lahvos cariketo dezihpal meh ha as romabin acsu uj ulasik ilekijci hic. Ihpir gac esbemi cunobufa wez ledeprub kolood put bodur suher fokukat ulubu copme mibiduv ov ukbum. Won givebu tefdo le vobo vaho vom okzo aru feudvi bu rofucul ivuduami sopwuwira ho.",
+    "bio": "Cauziwa kigoiji dofeko zebug kopon fi vobulbic tuewa kufzo icubebo tisebtac eg disok sireges hujbid jiwoki ureluni. Fuebhu moozesa irovivvu umifaso josokal lin lewzus tawsev dikhaf dun jiducajif icman. Caz opajeed pa lidamu zesruvwu karat sat evlu buluz gewat ogunerag owo."
+  },
+  "apiKey": "88404eac88a928dcdc2c082703c809b2da9d27888670b7c489ffe90c88013d1c",
+  "currency": {
+    "code": "USD",
+    "name": "United States Dollar"
+  }
+}
