@@ -1,0 +1,26 @@
+{
+  "name": "Margaret Nash",
+  "age": 64,
+  "address": {
+    "street": "Mesho Way",
+    "city": "Fepere",
+    "state": "NY",
+    "zip": "52416"
+  },
+  "contact": {
+    "phone": "(930) 262-5011",
+    "servicePhone": "800162319"
+  },
+  "birthday": "1971-10-11T05:32:55.734Z",
+  "ip": "1.214.48.151",
+  "foo": "bar",
+  "profile": {
+    "about": "Gigge dovlinoc hun enneh vo migasli ilaudo zaawciw hujihhog pa is vuwnane obfodku. Oz ko de megti ejiber abecfij kawzer gotzeda ig ukza ri nirawiga ojeductec wulbud nuc zekevam. Ugdem lefuge gep avoom lu ke hut da kas rensezag muziko ludavidud muthe iscane jem bi woz.",
+    "bio": "Beaz wezase bues ze fudifim edo kip culsitre pukhev lu loc taf. Kidpotu mofir hejdis hevfucze vulgu gocope wa lagba hepbieb racmofmav cofsetola nigevapan joluepa az niwu udebi zebhubrek kavuz. Hor zezdozsad zov ragam gaafaki kugefogiw cebfujor becija jupceda havedo nu pu ze redi. Wased soskuak fu besiruj eb ibsu de ikkol me aw orope etaeb bubgi do do vazuoz."
+  },
+  "apiKey": "0f48e24f9a2ef3db6582c2f43dcffd251ef9ff978a1bb626e0d4827bc83c8108",
+  "currency": {
+    "code": "GGP",
+    "name": "Guernsey Pound"
+  }
+}
