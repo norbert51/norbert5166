@@ -1,0 +1,26 @@
+{
+  "name": "David White",
+  "age": 49,
+  "address": {
+    "street": "Kuura Turnpike",
+    "city": "Nejiwidoc",
+    "state": "AK",
+    "zip": "77280"
+  },
+  "contact": {
+    "phone": "(312) 372-1307",
+    "servicePhone": "800448695"
+  },
+  "birthday": "1987-06-05T21:06:25.654Z",
+  "ip": "16.168.174.58",
+  "foo": "bar",
+  "profile": {
+    "about": "Zod ejevo luf ebifazu jofubale bumbu loh elike zonpe duso wabanojel dopook ilfu luva pagvete. Ubeakikuk wovod venjifba remeg ud rotdak pacu anes sutomi tumba pubwagwug min ipe gebar tov ve voltoc. Wakaz li ebazusok kub owo abmil pi boikvo vuzujkon mit pubjop dezumor kittic hoam uzpa dosozuk. Affe fic re vaktu pafpueve eruru poda rozenri egiva hiotvoz muhu opaug. Nad vedfa vakar fo wemekfit lazremsi tigfiw rufzi cibunuf tuguejo suduwdig hul. Usu vupat oj ve ofkehbek pidvuuri etma uci cet sopavef huf ruk kisav ni ocueg zu tahtitcaf totec.",
+    "bio": "Ne lazi vumda uzju hogugne ehmop raslesot gule cudfe ov tolre kiaswoh gevbavoz gi sof fiktoduh. He awgopu poctithu jenefe ukehas ib lun iw zev ihumouc juzlakez jufwak nevitla unwin. Cehha gatmonan gap gokuwe jo mapzetzur pepouv zulgom giw olu weam ecurojor nek zic nuw ucijag fuwis wifokad. Ekijelad vile kimfek ninavi nebsa ko pewid ekiva cope vu rofvisad ak azle in."
+  },
+  "apiKey": "edb1a877c9b3cea05794321d5b90a6f7a9a11335496695170508c1036f4499a6",
+  "currency": {
+    "code": "PYG",
+    "name": "Paraguay Guarani"
+  }
+}
