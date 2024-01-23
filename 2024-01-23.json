@@ -1,0 +1,26 @@
+{
+  "name": "Marion McGuire",
+  "age": 41,
+  "address": {
+    "street": "Damjo Glen",
+    "city": "Vewohuda",
+    "state": "UT",
+    "zip": "54556"
+  },
+  "contact": {
+    "phone": "(373) 500-3725",
+    "servicePhone": "800362212"
+  },
+  "birthday": "1987-10-21T22:12:01.022Z",
+  "ip": "13.39.214.123",
+  "foo": "bar",
+  "profile": {
+    "about": "Heci cek gedcikap muse sadcaif zefumwu badun gi gefjev ge misbu ruovunu povollo uhibeen ocuta jeto. Kit wihupve ni oli aluwazuj niwedij af lihof pe vimjijo mepbo opu pa. Idodih goubusa sobovve ragzuhac mij ru upaow fijbe ke uf av noh mo rozjacuf vakebga. Oriku fiboc zuzidnoc zo keucola asa jajacito irefi huc soscedin faebhef jehhozzep vikenu diaku faheffuk.",
+    "bio": "Wahcira seve nihi bajpeb isopelu laoc mitirumi umirasjil fujegi oweza noco imopecjo op bacor. Afefa puz heeze geztag jetohu lad novivso rokmu de ac anpesov kogtobdip rer dojfe. Sab bof avukip amu culselir mu sohkavfi oziragak jipufkef fulo oftuv jewavfak zu furu. Tar ramhi zetap ru guv unita okpo na rutrormu uhitum so gubbucla wak cetim gic. Dum ovhimo eh bairu ebe maj geneje fir abgel girwannos cugbaoje emeveg lub rod wagbiv. Tico suc aci ubi ovi setun ela mein ciccemo dabiped adatuv erolisep gev aji fit eval divit."
+  },
+  "apiKey": "5d74685fbeff0dca1a1d1e50ff815220bdd837d1c74e06ff1a655bbc2aae2e66",
+  "currency": {
+    "code": "RWF",
+    "name": "Rwanda Franc"
+  }
+}
