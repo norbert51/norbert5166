@@ -1,0 +1,26 @@
+{
+  "name": "Julian Stewart",
+  "age": 59,
+  "address": {
+    "street": "Varvin Terrace",
+    "city": "Dibkaret",
+    "state": "VA",
+    "zip": "18425"
+  },
+  "contact": {
+    "phone": "(370) 337-5651",
+    "servicePhone": "800533149"
+  },
+  "birthday": "1988-02-05T15:12:02.029Z",
+  "ip": "157.42.46.185",
+  "foo": "bar",
+  "profile": {
+    "about": "Puc doijuag wogevihog ciles niga pi jaunofu fuk hacwuhe ce gikewo viborsi fafe ahitov sejuveto. Powal vicakkik ve dolat umuko ihsu sot huinha jetim vo wetgikbe jodamde nobzu bom ruz fefnuc irifovom. Koszoldum pi vim zehfudi jinuh rokafo zon oc pu mohaphav sahrobden mizze kelissi vo ejmikop ujejipoc iruzoked lekofen.",
+    "bio": "Ja popku oknicu cugu cir wuhni lilep musocan ipfukjav hoc vo gemi nuvajdo ekozocubi ne. Kojfulop vi atred atkuk duw esa wuh cic zokoho sawsa dopol negir falsirki ekeba. Tis hazvo bohrolon nitehha nickome hunveir aku maidti foojvum canehi uza ukvopgut etmuf."
+  },
+  "apiKey": "3ea5cd4d65090c397ade43b7a48a8c72af4700a68e634c8972f82fc48adbb731",
+  "currency": {
+    "code": "KWD",
+    "name": "Kuwait Dinar"
+  }
+}
