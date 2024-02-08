@@ -1,0 +1,26 @@
+{
+  "name": "Nancy Price",
+  "age": 20,
+  "address": {
+    "street": "Zudek Court",
+    "city": "Vizejo",
+    "state": "MD",
+    "zip": "26879"
+  },
+  "contact": {
+    "phone": "(914) 252-7502",
+    "servicePhone": "800662245"
+  },
+  "birthday": "2002-06-03T00:59:34.394Z",
+  "ip": "137.136.201.131",
+  "foo": "bar",
+  "profile": {
+    "about": "Heulukem vazrouf osveah razlaimi efa pacowsa piitope diwedvij ipa cijsibi mucatef zinnuan impum dibe jaapovo. Afise uj wo curmab nicpi kez soj loep li tan jawfodze jodeggow ocne pohodju riscez tor juvho. Veb vi nuv ige rigak sosa joftune ja jegze es muzagman ci simefe joz fe unoeb mevi. Ulisubub ratgic kin fawreg lelcawoja asa fadenac ji covafub tu juipaziw towus bajru owdi gomerpi sawbunic.",
+    "bio": "Siro mah dodes fobemjac tuatikav zogitop legafim udegig oso li kocud useofo. Ce ojruawi evmouho gaweglu nefekomun atwalat usazog fedpu ba witecab zuzuaro iz. Lac bowaiv idburfo vojilu zusu lavor nojis elo eganu owkot ejce kovojeno edagit ajuwel irena. Reilin wapoje binbed ocvef rozfimmik bulbo ici ze dihufse ofo juhnupis babunmif me voluv hesvece. Tet gepah jisuj gi nefipfat otegavak dozje vursi nof wutvolta cosa ror ib meslo tam velonatow nazejuta."
+  },
+  "apiKey": "0703df089b06228fe7dd0780772d105ebc8c14907fa64cad4a6faefa41e2ca05",
+  "currency": {
+    "code": "VND",
+    "name": "Viet Nam Dong"
+  }
+}
