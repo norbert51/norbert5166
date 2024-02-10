@@ -1,0 +1,26 @@
+{
+  "name": "Leon Morris",
+  "age": 48,
+  "address": {
+    "street": "Fihe Street",
+    "city": "Uvebijew",
+    "state": "VA",
+    "zip": "45635"
+  },
+  "contact": {
+    "phone": "(200) 313-2791",
+    "servicePhone": "800927957"
+  },
+  "birthday": "1966-10-14T14:35:15.174Z",
+  "ip": "89.181.209.164",
+  "foo": "bar",
+  "profile": {
+    "about": "Janohef mu hegeg bi reri haze vi po voh hib tizize nacfom edsa piuderi dudemda aji. Lutnofme oveupa fijsomro tatrozlim apeojotu bubfaki cohin ohroz kiruppo opi win noc. Os ow zanoru ocinodce det bargah hetkogol jinunem zahtib pi buv digac guguat sikurkew.",
+    "bio": "Tuzonpow mumifa tuji mob ucigican labon sic coja limavla ted etianaver fugni ukonad rukdasone. Bufak fangon locnugo fac fihpe pajog umaapraj itidi gik dozhij ledboc jobma. Bikijodo rec joapa ofko cefegti peehok jagerrah ojtuwma kifizcaw bodjih tugiwhuc ekru huvmeztac vovfetwu johuve orvi ocejiure hihki."
+  },
+  "apiKey": "72b7ca31291487d13d78b3ea5f59d14ca4d42c5a5c98159a69c8f3b7e20e64cf",
+  "currency": {
+    "code": "PHP",
+    "name": "Philippines Peso"
+  }
+}
