@@ -1,0 +1,26 @@
+{
+  "name": "Connor Fowler",
+  "age": 62,
+  "address": {
+    "street": "Gobah Loop",
+    "city": "Jiwomdus",
+    "state": "MI",
+    "zip": "32200"
+  },
+  "contact": {
+    "phone": "(589) 209-4859",
+    "servicePhone": "800581718"
+  },
+  "birthday": "2000-03-22T23:37:56.565Z",
+  "ip": "119.76.69.136",
+  "foo": "bar",
+  "profile": {
+    "about": "Belwef mizibjez hi zabaha ran je bodel wunfom remed opeabu beine ifu kom nep. Rubizac suuneje nikfi gahuaj zesvi vug zi op hazresa pavaj rekko ken fortotam fez bidekri pe. Zoromlem giglumwo gagleba iw ze zitha ni atob ifdi bafot ipag nuh.",
+    "bio": "An dittahu ra mok kir tatit rujevba ok begawi otowe fivenza wabkotbac vaho loc gowvitdim nugdi. Towzoz rirmive pu vil uf surwul robosel ajje jawve di aj vezjied gulutobam kucjic nemvug ekdumon. Juzokeji ri wonkeg ugelole leca zu jijwabjub gatiz zame pek fejgut ik lo. Fiifude pa me ha ufiuze cu olaer cifsanvok ho gu vesunukes buba."
+  },
+  "apiKey": "be0f41355da3e815b9fb3fbb494d100ae29989091144cfdf12fb8319f068273e",
+  "currency": {
+    "code": "MVR",
+    "name": "Maldives (Maldive Islands) Rufiyaa"
+  }
+}
