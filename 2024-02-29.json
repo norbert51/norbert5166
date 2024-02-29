@@ -1,0 +1,26 @@
+{
+  "name": "Jon Hayes",
+  "age": 49,
+  "address": {
+    "street": "Onhe Center",
+    "city": "Uhebane",
+    "state": "NC",
+    "zip": "81806"
+  },
+  "contact": {
+    "phone": "(609) 834-8999",
+    "servicePhone": "800867436"
+  },
+  "birthday": "1972-11-21T21:43:44.527Z",
+  "ip": "70.59.138.20",
+  "foo": "bar",
+  "profile": {
+    "about": "Nej wo az vorimufag fabtituw wedlo cokomicuz de ko ben jomizta majhalug ine ico. Muktit azologu avievzuh savaszog ejajod dum tikbi ha ja vajce pohetfuf ziha kupenso pafjob upehno cohmaf. Fawep dav beiwo ebo fidsetawu od zeuna daz weavituj rukakjor mejril ole ifza un ikubo giso loppat. Raza zono kuujtu kur zi efasa uragru tordo vimdude ilehi le litu.",
+    "bio": "Zeczes cis ba me do wuspassov citife kar rumesoma cokhitit lap lozawzus doaf fojjeg vepudir. Uvahata lum ce ubokidno aj wedzakun torohad juj sade esiup ip di zetujem cinitezu mupsugla olbu. Vombo karow tejuhmu aze onenip bito miprasrir sezaj kefkop raepu apekablak iholo tozpotreg vekos gopu iziferhoj."
+  },
+  "apiKey": "2b5f45488f2d16f24177d2c0554acf7781d6718085ccf5854743bec30cba766a",
+  "currency": {
+    "code": "BOB",
+    "name": "Bolivia Boliviano"
+  }
+}
