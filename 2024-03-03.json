@@ -1,0 +1,26 @@
+{
+  "name": "Marcus Rice",
+  "age": 40,
+  "address": {
+    "street": "Johri Turnpike",
+    "city": "Hodiimo",
+    "state": "MT",
+    "zip": "04238"
+  },
+  "contact": {
+    "phone": "(723) 558-9718",
+    "servicePhone": "800143826"
+  },
+  "birthday": "1997-04-18T04:13:18.965Z",
+  "ip": "11.52.119.234",
+  "foo": "bar",
+  "profile": {
+    "about": "Pabfeso dic iboga wo zo kid daenapub kihe na musiz balzulset gujuac ted jede. Ma vuwat cu du tovah mandozo obha ce fuf du jekon furene zecil rehpa abasid. Saj cezerfof kokwegmol guj vec gogsur opo elgev poha umo zavmevpi batu lipvul.",
+    "bio": "Cohuccum dep ci sec lo rembihenu sodbufko bahaz zuwudvu ba udguwge ep baema mud. Pob pen befes edker ageopi mof menuf micohdi pammupiha gedopat he niom duwevhob wovhogzil lojwer dinwew ow. Daw kucmih amejugej rubbagip oso bekwenut cap ima kuzhafde vujmu ugi suttuon bihotji vetekaci."
+  },
+  "apiKey": "1fb9741f08c0609c81ebbed08f46630f6ecdc091a770b254ec8e2d78148f7f1c",
+  "currency": {
+    "code": "GBP",
+    "name": "United Kingdom Pound"
+  }
+}
