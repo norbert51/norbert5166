@@ -1,0 +1,26 @@
+{
+  "name": "Jordan Salazar",
+  "age": 42,
+  "address": {
+    "street": "Hebi Trail",
+    "city": "Opodpif",
+    "state": "NM",
+    "zip": "13077"
+  },
+  "contact": {
+    "phone": "(353) 563-6573",
+    "servicePhone": "800632469"
+  },
+  "birthday": "1971-06-23T21:30:39.522Z",
+  "ip": "44.234.209.132",
+  "foo": "bar",
+  "profile": {
+    "about": "Wiwgedi raanu ca sad rizkatap lajkogag jadzohla arlenma wicsi mubowo cedapse ci pimfi pecliw. Dov ulico wadkuw zi kul uszap lo dizonmuk pa pe cem liw. Dameucu jusze zel kop fe ikvez tail coososu ho pu bef siafuda dunjafdat ge.",
+    "bio": "Jo upipoaju asour pappam zahmitri gigfufgi cutat razule wuz sak ona cu ruriahu re monate hifij. Pozdowom fojnizet buezsi tumjije arozout pozku ihpav nuuri vuvurcor gupbu madfi nav cerazi. Hud anerezuj me et buoswe dabagke mupo pag dare zalamo huc pijkot do kutobeg. Balir getezceg nelwi lohuv zochepo veeki mom masid jil ejiju wuna esalufud el nit vil bugmis bulalo."
+  },
+  "apiKey": "e9647429734cae53257c8765c7d40222bd0ce131d4cb640ad9efd020f116f474",
+  "currency": {
+    "code": "BZD",
+    "name": "Belize Dollar"
+  }
+}
