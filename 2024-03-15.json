@@ -1,0 +1,26 @@
+{
+  "name": "Etta Burns",
+  "age": 37,
+  "address": {
+    "street": "Rurza Pass",
+    "city": "Pagopaw",
+    "state": "MT",
+    "zip": "94186"
+  },
+  "contact": {
+    "phone": "(646) 476-8229",
+    "servicePhone": "800573632"
+  },
+  "birthday": "1997-01-14T13:54:53.975Z",
+  "ip": "145.215.107.72",
+  "foo": "bar",
+  "profile": {
+    "about": "Ib dejekak vawe pumce civafi wic azo zifub tangude aweovkip eza mihhaw wivnum awnodtu. Suw hefuwana zuzdutbip gice awibi fo fo liih hotadal ja kor afpohud odkam ze kip. Je hil ref tidzuwo etegi jo oz hordo oru zok fa abde.",
+    "bio": "At dapacga gonumenet uzhif efsiko neuja kugtoj tanto wutases gevtec hap pezih vo ferboepo waesu zijuwi. Taem jug bahoba buimeco ima packena re opi dez kivrozan ka wu pucebe baca cufev ifuwe juw. Repe armo epa wukbes nozzu da dockipum huteh vauvaga sanilzo sisip lenzuh devobpu. Fu wid caomies neabe niatto muhlubgi jaw pume kovidtej tacopi usisaparo cukisic ifkoge uziradig."
+  },
+  "apiKey": "21c25db1e0b04cc59df7f9621a70b98aa991130261770657478c73d5b5e12e20",
+  "currency": {
+    "code": "SCR",
+    "name": "Seychelles Rupee"
+  }
+}
