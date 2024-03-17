@@ -1,0 +1,26 @@
+{
+  "name": "Tom Larson",
+  "age": 54,
+  "address": {
+    "street": "Tupi Pike",
+    "city": "Afukait",
+    "state": "TN",
+    "zip": "09061"
+  },
+  "contact": {
+    "phone": "(834) 352-2505",
+    "servicePhone": "800118338"
+  },
+  "birthday": "1994-11-24T23:08:12.180Z",
+  "ip": "22.30.135.14",
+  "foo": "bar",
+  "profile": {
+    "about": "Se butuha dikfi rikhut upiru lovo himi fih ku des hi difitjo kimwi daonpe jostoeka uraite siben bouvigip. Cagir ansozep ilaero luduj suah gepoc watiwpib elopumma pah hebe koglosru riraj ewgud jaga kizli cot. Az im citved muobvew epsej taco vommeoga ekehorok karo bafab ze su. Kucojalib rosesoca iwo effinoh iruwizi lal hekave mowu uwrozgoh kahugdin filtajwe cujpibec zokid ijavihle ih. Coramgam fifnukfu gifasekib rov worvi bon gutec kumutoaze repnuz hothano cuf odsobu buhev.",
+    "bio": "Ut on hiewoud remuzdo saoglo pabuse weus imsoscef nisupo diokuku looca buju pahcunuh umfaka koval wuarebuk fagelem buc. Jaabecij gidat este da negam du joceni ow keapvow rajiv gecho gi so loc ho va gi pev. Ojepu wanbote pifujka wabadili kaolu lichoufo gafjoega ighasiz resi muswat si eho eksapa zibu ko zaugo. Mednu bemedi batoon ju he wu gitic tep we wef rersedi vemoebo wudnen nuhov je um luv."
+  },
+  "apiKey": "1d369e35c00d7d7a6f19e67dc93e449bc127e87e937f5533cb04f555b18112d4",
+  "currency": {
+    "code": "HUF",
+    "name": "Hungary Forint"
+  }
+}
