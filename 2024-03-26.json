@@ -1,0 +1,26 @@
+{
+  "name": "Georgie Duncan",
+  "age": 33,
+  "address": {
+    "street": "Ugofi Center",
+    "city": "Estumris",
+    "state": "VA",
+    "zip": "73006"
+  },
+  "contact": {
+    "phone": "(810) 912-4441",
+    "servicePhone": "800188163"
+  },
+  "birthday": "1998-03-08T19:05:53.885Z",
+  "ip": "186.199.119.225",
+  "foo": "bar",
+  "profile": {
+    "about": "Malpa run haf em uvakibje bo godsil ra tus dinbinwis visolu zal. Paw pozpefes zilam gur kaucual pini zuudu zamlewac potal wivef aku emdin. Fompudtom iz dirizah bof filulo uzifimuh hadva wem juhed radavela pucsu kimwu ruaku. Kilalo of guet tihi ezu nu fofcuuso im ta noni tabopzos docmuta woluj geni wamsoni. Beftumse digahef apburob kok buijiita sol rov lefogezok romine pub nurcano ecefe fa ecaino wocinik uzino munwi.",
+    "bio": "Irhov kokiun beckow repwuj alhuk bi pag ihisub nugazic baew olidareb bueho pa. Buseglih wunikof meklapkug ucmahwuf et nauw ow uvugojmo wu hudnujpag sew meciv kufnij jera onunudfug ed deul ekofi. Dih helam bekewbug dizigi nih warakwe ti giudruh fidide ubulaci kehe her bem gogruzfac mosu dompumlet juotze fita. Vas dacfa he sofwec elozisiv havsa gor nagfaloba nug ih nagpaade nuvuh lipere okodi tulor mok vag be."
+  },
+  "apiKey": "363ce224d6d740da4b95ce9b5524e2eb95cd91f78b6303337a8b80fbe0249019",
+  "currency": {
+    "code": "TTD",
+    "name": "Trinidad and Tobago Dollar"
+  }
+}
