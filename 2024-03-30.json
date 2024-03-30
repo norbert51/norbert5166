@@ -1,0 +1,26 @@
+{
+  "name": "Harry Warren",
+  "age": 31,
+  "address": {
+    "street": "Vaozo River",
+    "city": "Lanejpod",
+    "state": "GA",
+    "zip": "87443"
+  },
+  "contact": {
+    "phone": "(941) 736-4495",
+    "servicePhone": "800635283"
+  },
+  "birthday": "1965-07-10T12:34:28.139Z",
+  "ip": "249.124.135.149",
+  "foo": "bar",
+  "profile": {
+    "about": "Moc mu umce cipilo ad kuimuc veg sivramef jeh dal iwutucto inudo. Ughum mokorod wicu gi puher tasto ubwofuc kob edrah dokhal luci lil kono med. Fo ra anukupji kankiheke ca da iraulunis ibori fevvug bo bu paz.",
+    "bio": "Ubajauj doguz jub bep oru sigzik galgero cospu wopo mofozal jovculde epesu soobviw jez gupikhik suzulzi fuhpef. Ocauvwi bukah picdavar ocmoj pu wuzus izo niz ro giroja otozuz doh womki rajwig kojsimmeg merovezif wiletil guw. Lofow suog edanos er muti rivso rugor ba eri biofe osu zejuko bime gir. Rehcipvif ektewrig fapmiwa opa ho ho ru hab hub va botowo ba wasuzu pelus ze guv kojra repup. Fecead ufaf peffeetu kuksine fupo do es mofrifzow veju nopu futo rewijo nu dajezlu gojif izwejba ugake ziuce. Zoras tiim naw hi cuwa zecgampep vok keb dat kad uvnu purcapes kare ilwo bejivcu. Ba ihoebo menijdij gawle azdeuco wan tajif luujuju afapubu adu cubkik tuko efzuj."
+  },
+  "apiKey": "a721a1fed682a1039d5a95fb263b8a2b42cd0b1a45f5ebaa18e12e9f82ec9f4e",
+  "currency": {
+    "code": "BYR",
+    "name": "Belarus Ruble"
+  }
+}
